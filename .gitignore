@@ -1,0 +1,10 @@
+*.out
+*.vcd
+*.fst
+*.lxt
+*.log
+__pycache__/
+.pytest_cache/
+build/
+results/raw/
+.local/
